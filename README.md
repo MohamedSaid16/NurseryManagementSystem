@@ -1,2 +1,2 @@
 # NurseryManagementSystem
-A comprehensive nursery/childcare management system built with React.js and Node.js
+A comprehensive Nursery Management System for managing children, parents, employees, and administrative tasks. Built with React.js for the frontend and Node.js/Express for the backend, with role-based access control and real-time features.
